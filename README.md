@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Osmans's GitHub Stats](https://github-readme-stats-xi-five-47.vercel.app/api/top-langs/?username=osman-sultan&layout=compact&theme=tokyonight)
+.
