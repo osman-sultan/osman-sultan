@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Osmans's GitHub Stats](https://github-readme-stats-xi-five-47.vercel.app/api?username=osman-sultan&layout=compact&theme=tokyonight)
-![Osmans's Top Lang's](https://github-readme-stats-xi-five-47.vercel.app/api/top-langs/?username=osman-sultan&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&exlude_repo=privategpt,data-engineering-practice,underlying-factors-in-soccer-injuries,persona-ai)
+![Osmans's Top Lang's](https://github-readme-stats-xi-five-47.vercel.app/api/top-langs/?username=osman-sultan&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&exlude_repo=privategpt,data-engineering-practice)
