@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-xi-five-47.vercel.app/api/top-langs/?username=osman-sultan&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&exlude_repo=privategpt,data-engineering-practice&langs_count=9" />
 </a>
 
-.
+
