@@ -5,7 +5,7 @@
 💼 Seeking full‑time roles in **Full Stack Engineering**, **Data Engineering**, **Back‑End Development**, and **Machine Learning**.
 
 ### Currently
-- 💻 Software Eng Intern at **HealthTap** — using AI voice agents to automate triage, reducing support load so doctors can focus on treating millions of patients.
+- 💻 Software Engineer at **HealthTap** — using AI voice agents to automate triage, reducing support load so doctors can focus on treating millions of patients.
 - 📊 Contractor at **Munero** — building data tools and forecasting models to improve global rewards operations and inventory planning.
 
 🎓 B.A.Sc. **Industrial & Systems Engineering**, minor in **Artificial Intelligence**, **University of Toronto**
