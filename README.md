@@ -1,23 +1,6 @@
-## Hi there, I’m Osman 👋
+## hi, i'm osman 👋
 
-**Exploring AI for social good · Advocating for quality data · Trying to keep up with the JS and Python ecosystem**
-
-💼 Seeking full‑time roles in **Full Stack Engineering**, **Data Engineering**, **Back‑End Development**, and **Machine Learning**.
-
-### Currently
-- 💻 Software Engineer at **HealthTap** — using AI voice agents to automate triage, reducing support load so doctors can focus on treating millions of patients.
-- 📊 Contractor at **Munero** — building data tools and forecasting models to improve global rewards operations and inventory planning.
-
-🎓 B.A.Sc. **Industrial & Systems Engineering**, minor in **Artificial Intelligence**, **University of Toronto**
-
-🌐 Learn more at [osmansultan.me](https://www.osmansultan.me)
-
----
-
-**Let’s talk about:**  
-Astral appreciation (uv, ruff, ty) · OpenAI Agents SDK + RealTime agents <br><br>
-OR <br><br>
-Cars · Food · Travel & History · One Piece · FC Barcelona & Raptors · Scuderia Ferrari · Lego & Hot Wheels · HP · LoTR · Star Wars
+i'm not a fan of ai data centers
 <!--
 **osman-sultan/osman-sultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
